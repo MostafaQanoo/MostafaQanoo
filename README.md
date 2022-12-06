@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1>About Me 📌</h1>
 
 - 👋 I am Mostafa Qanoo
-- 🔭 software Engineer, palestine University of Gaza , 89.55% GPA.
+ 🔭 software Engineer, palestine University of Gaza , 87.88% GPA.
 - 💻 I am Junior full stack developer
 - 🌱 I am currently focusing on learning Node.js and React
 - ⚡ Fun fact: Sometimes I LOVE to code 24/7
